@@ -1,4 +1,4 @@
-# Self-organizing-Data-Structures
+# self-organizing-data-structures
 
 Comparison of 4 Self-organizing Data Structures.
 
